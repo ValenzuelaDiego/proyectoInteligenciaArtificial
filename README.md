@@ -1,5 +1,5 @@
-# Aprendizaje por Refuerzo para sistemas de Control Clasico
-## Proyecto Final de la Materia Inteligencia Artificial
+# Aprendizaje por refuerzo para sistemas de Control Clasico
+## Proyecto final de la materia "Inteligencia Artificial"
 
 ### Integrante
 
@@ -7,11 +7,13 @@
 
 ### ¿En que consiste el proyecto?
 
-El proyecto consiste en aplicar tecnicas de Aprendizaje por Refuerzo y Aprendizaje por Refuerzo Profundo a 3 sistemas de Control.
+El proyecto consiste en aplicar tecnicas de Aprendizaje por Refuerzo y Aprendizaje por Refuerzo Profundo a 3 sistemas de control clasico.
 
-### ¿Que encontrate en este Github?
+### ¿Que encontraras en este Github?
 
 Codigos de aplicación de algoritmos para trabajar con los siguientes ambientes:
-- MountainCar-vo
+-MountainCar-vo
+
 -CartPole-v1 
+
 -Acrobot-v1
