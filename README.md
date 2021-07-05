@@ -12,6 +12,7 @@ El proyecto consiste en aplicar tecnicas de Aprendizaje por Refuerzo y Aprendiza
 ### ¿Que encontraras en este Github?
 
 Codigos de aplicación de algoritmos para trabajar con los siguientes ambientes:
+
 -MountainCar-vo
 
 -CartPole-v1 
