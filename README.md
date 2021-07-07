@@ -17,4 +17,3 @@ Codigos de aplicación de algoritmos para trabajar con los siguientes ambientes:
 
 -CartPole-v1 
 
--Acrobot-v1
