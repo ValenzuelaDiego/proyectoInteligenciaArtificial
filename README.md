@@ -7,7 +7,7 @@
 
 ### ¿En que consiste el proyecto?
 
-El proyecto consiste en aplicar tecnicas de Aprendizaje por Refuerzo y Aprendizaje por Refuerzo Profundo a 3 sistemas de control clasico.
+El proyecto consiste en aplicar tecnicas de Aprendizaje por Refuerzo y Aprendizaje por Refuerzo Profundo a 2 sistemas de control clasico.
 
 ### ¿Que encontraras en este Github?
 
